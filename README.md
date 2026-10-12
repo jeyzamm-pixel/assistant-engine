@@ -1,5 +1,7 @@
 # Assistant Engine
 
+![Assistant Engine](docs/okladka.png)
+
 Jeden silnik promptów dla czatbotów i asystentów głosowych wielu firm. Wspólny rdzeń, wiedza klienta i warstwa kanału składane w prompt, a reguły, których asystent nie może złamać, pilnowane kodem i testami.
 
 *One prompt engine for many companies' chatbots and voice assistants. Shared core, client knowledge and a channel layer composed into a prompt; hard rules enforced by code and tests.*
