@@ -1,0 +1,7 @@
+{
+  "_opis": "Ustawienia platformy głosowej trzymane w repozytorium, nie klikane w panelu. Fraza kończąca musi być znak w znak taka jak w wiedza.yaml.",
+  "endCallPhrases": ["Dziękuję za rozmowę, do usłyszenia."],
+  "silenceTimeoutSeconds": 20,
+  "maxDurationSeconds": 300,
+  "criterionAkceptacji": "rozmowa konczy sie powodem: asystent powiedzial fraze konczaca"
+}

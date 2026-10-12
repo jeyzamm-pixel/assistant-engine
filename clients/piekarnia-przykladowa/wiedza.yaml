@@ -1,0 +1,13 @@
+# Wiedza klienta fikcyjnego. Fakty dzielą się na pewne (trafiają do promptu) i niepewne (nie trafiają nigdzie).
+firma: Piekarnia Przykładowa
+fraza_konczaca: "Dziękuję za rozmowę, do usłyszenia."
+fakty_pewne:
+  adres: "ul. Przykładowa 1, Miasto Testowe"
+  godziny: "poniedziałek do piątku 6:00 do 18:00, sobota 6:00 do 14:00, niedziela nieczynne"
+  zamówienia_tortów: "Torty przyjmujemy z trzydniowym wyprzedzeniem, zamówienie składa się osobiście lub przez formularz."
+  odbiór: "Odbiór zamówień w sklepie, bez dowozu."
+  zakwas: "Chleb pieczemy na własnym zakwasie."
+fakty_niepewne:
+  - "czy piekarnia robi torty bezglutenowe"
+  - "ile kosztuje tort na dwadzieścia osób"
+  - "czy dowóz poza miasto jest możliwy w święta"
